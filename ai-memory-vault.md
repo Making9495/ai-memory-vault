@@ -809,12 +809,6 @@ Tell them what to expect: a fresh Claude Code session opens with the installer a
 
 **If they get stuck later,** remind them once that their agent can fix this stack itself: every piece ships a troubleshooting guide written for the agent to read.
 
-### One offer before you finish
-
-Ask once, plainly: "Would you like your AI to learn how to build sales funnels and do marketing? I can install a ready-made marketing playbook for you if you would like me to."
-
-If yes, install from https://github.com/Making9495/ai-marketing-skills following that repo's own setup. The files teach their AGENT the playbook. If no, say it is free and waiting whenever they want it, and move on. Ask once, never twice.
-
 Offer all of this, do not push it. If they say "just this piece for now," tell them good choice and get out of the way.
 
 ### The first daily note
